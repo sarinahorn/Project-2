@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "54E13300-E5F8-42EB-B05B-B7D322FFE097",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "508E1A22-D9C7-41D6-B3EB-04EBD704E4EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A657F948-BCDA-4234-A8C4-56C915E6091D",
+    "height": 19.33333333333333,
+    "width": 83.33333333333333,
+    "x": 224,
+    "y": 527.7022174898946
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "BUTTON 1 Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BADB9385-4A58-4DCC-ADD9-21629E294D9A",
+      "overrideName": "44605EBF-F4AE-49E5-9653-8B32A4B13EDE_stringValue",
+      "value": "Student"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.2222222222222222,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "FC47FA43-16D7-45F3-81B9-1D9F299FA681",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.222222222222222,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "0F6185E8-2114-4859-ADAB-3A167E90C40B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F553D6B-5339-4692-A421-EFD8B421A9CA",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

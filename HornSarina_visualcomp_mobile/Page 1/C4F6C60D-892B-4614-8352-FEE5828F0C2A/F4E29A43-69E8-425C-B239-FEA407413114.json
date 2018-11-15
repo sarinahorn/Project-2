@@ -1,0 +1,137 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Edmondsans-Regular",
+              "size": 10
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 12.67000007629395,
+            "minimumLineHeight": 12.67000007629395
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 329,
+        "location": 0
+      }
+    ],
+    "string": "Sand Point Gallery is an exhibition space for activities that contribute to the vitality of the School by providing a venue for exhibitions, installations, performances, forums, lectures, and media presentations that are curated, organized, and presented by the faculty, graduate students or undergraduate students of the School."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F4E29A43-69E8-425C-B239-FEA407413114",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3902D2FF-8627-462A-9197-BC44F4F91E49",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E2B6C00-9E63-493C-8A3A-3E62EB55FB1B",
+    "height": 87.1111111111111,
+    "width": 106.8888888888889,
+    "x": 177,
+    "y": 232.9857346009163
+  },
+  "glyphBounds": "{{-1, 1}, {106, 186}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Sand Point Gallery i",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "C8AECAFE-FAFE-4776-B7D2-FBC7F77762F5",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.222222222222222,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "7101A592-9DF7-4EA1-96EC-E97DF1F6D4A1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Edmondsans-Regular",
+            "size": 10
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 12.67000007629395,
+          "minimumLineHeight": 12.67000007629395
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "web",
+        "words": [
+          "Standard time frame for exhibitions is approximately 3 weeks, although other periods of time may be assigned due to high demand or will be considered upon request. Single night or weekend uses for performances, events, etc., will also be considered.",
+          "Approval notice will be sent via email. Please read approval notice carefully for further information on the terms of use. Sand Point doors are locked at all times and have combination lockboxes installed on them. Approved users will receive the current combination to doors that are necessary for access in the approval notice. Keys are not to be removed from the lockboxes. Entrance to the gallery will be from the east end of the building. Audience members are not allowed to walk freely around the studio building. Please refer to house rules on studio safety and security. All studios are meant to be quiet spaces. Use of sound equipment is only allowed on low volume or with the use of headphones. Artwork is not insured by the School of Art or the university. While the gallery is locked when not being attended and the outside doors are kept locked, each artist exhibiting must be aware that their work is not insured for loss or damage.",
+          "Users are responsible for maintaining the space and restoring it (walls, floor, lights, and furniture) to its original condition before moving out. Programs will be charged damage and clean up fees if necessary. A faculty signature is required on the application form to guarantee financial responsibility for any damage charges occurred as a result of negligent use. Please allow extra time for clean-up and moving out before your assigned time period ends. Condition of the room will be checked upon your departure and you will be held responsible for damages or cleaning fees if not returned to the proper condition. If you are planning to serve alcohol at the opening, you will need a permit application from Violetta Walker in the Art Administration office.",
+          "Faculty and students are welcome to apply. Student applications (both graduate and undergraduate) must be accompanied by a faculty signature of support.",
+          "Prospective users should submit the short application form (PDF) including proposed time frame, type of exhibition, a sampling of artists that will be shown and the relevance of the event to the School community. Please put completed application forms in the Art Building mailbox for Zhi Lin (room 102A, across from elevator) or email applications may be sent to zhilin@uw.edu. Email applications must be followed by an approval email from a faculty sponsor. Applications without a School faculty signature of support will not be accepted.",
+          "Sand Point Gallery is an exhibition space for activities that contribute to the vitality of the School by providing a venue for exhibitions, installations, performances, forums, lectures, and media presentations that are curated, organized, and presented by the faculty, graduate students or undergraduate students of the School."
+        ]
+      }
+    }
+  }
+}

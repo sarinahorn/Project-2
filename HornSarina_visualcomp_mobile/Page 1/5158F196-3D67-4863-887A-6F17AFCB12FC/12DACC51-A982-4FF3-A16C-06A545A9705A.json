@@ -1,0 +1,96 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "12DACC51-A982-4FF3-A16C-06A545A9705A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4EBC433F-3F04-406D-8500-C0072CCABC2E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "71A5D9C5-90F6-43D0-974C-2BE17334B8DF",
+    "height": 19.33333333333333,
+    "width": 83.33333333333333,
+    "x": 225,
+    "y": 596
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "BUTTON 1 Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BADB9385-4A58-4DCC-ADD9-21629E294D9A",
+      "overrideName": "44605EBF-F4AE-49E5-9653-8B32A4B13EDE_stringValue",
+      "value": "Student"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BBE26ED4-F2DD-49D2-82B6-83E19440FDD9",
+      "overrideName": "6A451611-4414-4CB3-BFDE-927A3A8E9B4F_stringValue",
+      "value": "students"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.2222222222222222,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "DFF38415-18C0-4280-9745-A333C211F52B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.222222222222222,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "4CB901E1-7A5C-4D99-A297-2B59EA3905D5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F553D6B-5339-4692-A421-EFD8B421A9CA",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "72A1B0F5-5B5B-4932-A6F6-B130F641A08F",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

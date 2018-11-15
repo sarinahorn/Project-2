@@ -1,0 +1,135 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Edmondsans-Regular",
+              "size": 10
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 12.67000007629395,
+            "minimumLineHeight": 12.67000007629395
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1657,
+        "location": 0
+      }
+    ],
+    "string": "The Jacob Lawrence Gallery has a fundraising campaign to support the 2019 Jacob Lawrence Legacy Residency. This residency and its accompanying exhibition were established in 2015 and are a cornerstone of the Gallery's program, enabling artists, students, faculty, and staff to engage in dialogue as new work is incubated. Black artists at all stages of their careers are nominated by a selection committee to travel to Seattle for a residency during the month of January and an exhibition in February. Previous Jacob Lawrence Legacy Residency awardees are HOWDOYOUSAYYAMINAFRICAN?, Stefani Jamison, and C. Davida Ingram.\n\nThe next Jacob Lawrence Legacy Resident will not only have an exhibition at the Jacob Lawrence Gallery but also has the opportunity to show their work at SOIL, Seattle’s oldest not-for-profit space located in Pioneer Square. This opportunity to share an artist's work in venues that stretch between the University’s campus and Downtown Seattle presents a rare occasion to create a dialog between the center of Seattle’s cultural life, Pioneer Square, and the city’s academic hub, the University of Washington.\n\nThe 2019 residency and exhibition coincide with the 25th anniversary of the Gallery being named in honor of Jacob Lawrence, who taught here from 1970 to 1985. Along with his expertise in painting and printmaking, Lawrence brought a critical perspective that never shied away from political and social issues. As a professor he inspired the same in his students.\n\nYour contribution to this campaign helps ensure that this vital program honoring the legacy of Jacob Lawrence’s life and practice may continue into the future.\n\n"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6B96E3DA-DCC2-4D94-8BA4-9543C98423E8",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "87F5CD9A-8CD3-4315-8623-6CBBE9119E28",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "57B53D01-BA7E-485C-90D2-180115697CDB",
+    "height": 229.6993904573112,
+    "width": 161.7777777777778,
+    "x": 113.1111111111111,
+    "y": 224.5911063787835
+  },
+  "glyphBounds": "{{-1, 1}, {161, 680}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "The Jacob Lawrence G",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "C8AECAFE-FAFE-4776-B7D2-FBC7F77762F5",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.222222222222222,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "43ABF585-25D4-4554-B1BC-B3A6FCD02C6B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Edmondsans-Regular",
+            "size": 10
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 12.67000007629395,
+          "minimumLineHeight": 12.67000007629395
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "web",
+        "words": [
+          "Division: ArtArt HistoryDesign",
+          "People Involved: Emily Zimmerman",
+          "News Category: \nAnnouncementsCommunity ImpactExhibitions + EventsGivingJacob Lawrence Gallery\n",
+          "The Jacob Lawrence Gallery has a fundraising campaign to support the 2019 Jacob Lawrence Legacy Residency. This residency and its accompanying exhibition were established in 2015 and are a cornerstone of the Gallery's program, enabling artists, students, faculty, and staff to engage in dialogue as new work is incubated. Black artists at all stages of their careers are nominated by a selection committee to travel to Seattle for a residency during the month of January and an exhibition in February. Previous Jacob Lawrence Legacy Residency awardees are HOWDOYOUSAYYAMINAFRICAN?, Stefani Jamison, and C. Davida Ingram.\n\nThe next Jacob Lawrence Legacy Resident will not only have an exhibition at the Jacob Lawrence Gallery but also has the opportunity to show their work at SOIL, Seattle’s oldest not-for-profit space located in Pioneer Square. This opportunity to share an artist's work in venues that stretch between the University’s campus and Downtown Seattle presents a rare occasion to create a dialog between the center of Seattle’s cultural life, Pioneer Square, and the city’s academic hub, the University of Washington.\n\nThe 2019 residency and exhibition coincide with the 25th anniversary of the Gallery being named in honor of Jacob Lawrence, who taught here from 1970 to 1985. Along with his expertise in painting and printmaking, Lawrence brought a critical perspective that never shied away from political and social issues. As a professor he inspired the same in his students.\n\nYour contribution to this campaign helps ensure that this vital program honoring the legacy of Jacob Lawrence’s life and practice may continue into the future.\n\n"
+        ]
+      }
+    }
+  }
+}

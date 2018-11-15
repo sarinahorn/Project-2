@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "706194B7-4679-4F8F-B696-4F5999674852",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "456CAF20-4F3F-44C2-823C-5EF993340B97",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D9B0D0CA-E84F-4D60-9F5B-5D7001A3CDB0",
+    "height": 11.11111111111111,
+    "width": 33.55555555555556,
+    "x": 249.5555555555555,
+    "y": 816.7777777777777
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "featured small button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "25C3A8CF-03A5-4019-B811-FA6F8D48DE79",
+      "overrideName": "9AFC93AB-F639-44DB-937C-C2E65D12BE68_stringValue",
+      "value": "students"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C634153D-F779-44D3-BF0F-12C5B97A4D2B",
+      "overrideName": "80BCA753-E8CB-45E3-BCFE-6C55BCC232CD_stringValue",
+      "value": "students"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.2222222222222222,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "3091955B-5154-445D-ADA4-84046851BBC7",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.222222222222222,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "F6DE3BBB-D4FB-4363-9C41-558AEC77AA67",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "242E870D-E2A0-4E68-A073-269B4717FCB4",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,96 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F7D8B1CC-21FF-4B71-B21B-FFD8CDF4003F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "79FD3747-E654-4757-9BB5-3909E197BD12",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CA06BD1B-D3AA-4B2C-8169-B503C480FDBA",
+    "height": 19.33333333333333,
+    "width": 83.33333333333333,
+    "x": 9.11111111111111,
+    "y": 527.7022174898946
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "BUTTON 1 Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A24951ED-3C34-4873-9208-74081FEBB7D7",
+      "overrideName": "44605EBF-F4AE-49E5-9653-8B32A4B13EDE_stringValue",
+      "value": "Academics"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "14985915-BF31-447A-B420-A213C1168D96",
+      "overrideName": "6A451611-4414-4CB3-BFDE-927A3A8E9B4F_stringValue",
+      "value": "Academics"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.2222222222222222,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B9FDDE6D-FB52-4191-BDC0-F7E0FEDAA4CE",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.222222222222222,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "28A4D078-B5FA-46DC-9C40-76B9C428DF0B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F553D6B-5339-4692-A421-EFD8B421A9CA",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "8084BC58-CFB4-48EF-AD1D-540A3037D6CF",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

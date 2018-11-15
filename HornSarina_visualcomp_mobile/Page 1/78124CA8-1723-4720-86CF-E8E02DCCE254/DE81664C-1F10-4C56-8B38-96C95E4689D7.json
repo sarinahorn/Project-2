@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DE81664C-1F10-4C56-8B38-96C95E4689D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA394A56-F257-4712-AF01-64F3F899CC0C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F895B556-EA1C-49DE-9AC3-641ECC4C50F4",
+    "height": 19.33333333333333,
+    "width": 83.33333333333333,
+    "x": 224.8888888888889,
+    "y": 736.9857346009163
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "BUTTON 1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BADB9385-4A58-4DCC-ADD9-21629E294D9A",
+      "overrideName": "44605EBF-F4AE-49E5-9653-8B32A4B13EDE_stringValue",
+      "value": "Student"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A326A1B4-4D28-4D15-AF4E-C1C9E8F4980E",
+      "overrideName": "6A451611-4414-4CB3-BFDE-927A3A8E9B4F_stringValue",
+      "value": "students"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.2222222222222222,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6C5CDA75-DEFA-461B-B02A-C2EA4504219A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.222222222222222,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "2106A1EF-D9FD-49A5-B3C2-556A2E2CB19F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F553D6B-5339-4692-A421-EFD8B421A9CA",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,147 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E89BEA11-66B0-41BA-9A8D-BC67A775B853",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "5554E30F-28BD-411A-B0BE-87A59C341889"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0DE40B82-EED3-4F9D-8F40-8982663E751E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BB2866C1-F5BE-4139-BB86-F6CDBEC1D2C5"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5CDFE5D3-3F55-4A7F-84BF-A745359A21BD"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "095DA067-C653-4A45-9A9C-AE3DD17BF0A5"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9057E6E9-B223-4C27-95DD-53171E5D17A0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0ABEF260-0C1C-4674-919B-93A58862EBA9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BEE8585A-7B52-48E0-BAF9-320AF22DA647"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "AC886BF1-1D96-464A-A959-45FC33C90F95"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5E838AEC-F0EC-4288-AD64-475901018ECD"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "76A2E0E4-8786-46A9-8C2F-09606933EF1A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A74BBA49-CDA8-4ACE-994F-3EAA21618CE7"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "54EE40B6-0767-458E-8B02-BA354F4DB967"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5F51211E-23B9-4D49-9396-0018431BA886"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FC26453D-4B6A-4ECC-8C9D-581AD990E6F6"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D247FC36-0C14-412D-9A7F-E4D83B92B0D7"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1F384EE3-1FF8-4A92-907C-BE3DB2E4FEF0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7AB88AF4-EFCE-49C6-9EA4-BB056013FBCF"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E75F9096-1407-4920-9AF5-173084FDFC75"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9E65C448-7DFE-45ED-9FEE-A45E36485CDB"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "01B18CE5-9E62-4553-8E10-FEDE7A7EC360"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E61546E9-F474-4F88-98F4-2A1634485099"
+    }
+  ],
+  "name": "Symbols",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

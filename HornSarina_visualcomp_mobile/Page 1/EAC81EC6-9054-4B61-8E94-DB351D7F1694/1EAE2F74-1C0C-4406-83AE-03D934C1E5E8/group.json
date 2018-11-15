@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1EAE2F74-1C0C-4406-83AE-03D934C1E5E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A9947A5D-AE71-4BA5-B1C6-6D294EBE5135",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "64D93D60-99BB-4F4C-A8AB-2BC2345767C8",
+    "height": 98.88888888888889,
+    "width": 106.6666666666667,
+    "x": 214,
+    "y": 554
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C340B247-5128-436D-95FC-96BCF6C0B7D3"
+    },
+    {
+      "class": "bitmap",
+      "id": "D47B33C2-14BA-47DB-8D8A-9525CBA6EA08"
+    }
+  ],
+  "name": "Bitmap Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "269AD6A0-8030-4013-9994-EF2ADD45A154",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.222222222222222,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "33E86C47-3ECC-4393-B969-20AE8208747D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

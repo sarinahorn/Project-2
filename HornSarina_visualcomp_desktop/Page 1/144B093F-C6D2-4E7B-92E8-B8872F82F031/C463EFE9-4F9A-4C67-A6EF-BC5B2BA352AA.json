@@ -1,0 +1,162 @@
+{
+  "_class": "rectangle",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C463EFE9-4F9A-4C67-A6EF-BC5B2BA352AA",
+  "edited": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A20F7BE0-7D19-45B9-A517-3DC531067452",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fixedRadius": 0,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1B7F0459-61A9-4E75-BFE1-552633DCA16E",
+    "height": 755,
+    "width": 1020,
+    "x": -280,
+    "y": 834
+  },
+  "hasClippingMask": false,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Rectangle",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0}",
+      "curveMode": 1,
+      "curveTo": "{1, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 2
+      }
+    ],
+    "do_objectID": "E9D7E08C-CCCD-4603-A019-4D2470C0801B",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/f229385f77103b1d377e09be78be6515ceaccb22.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://art.washington.edu/sites/art/files/styles/large_full_width/public/images/industrial-design-project-bicycle_0.jpg?itok=9HDHnyJA&c=0f8102af9a2c2559a02c2eb02c975914",
+            "type": "src"
+          },
+          {
+            "link": "https://art.washington.edu/sites/art/files/styles/large_full_width/public/images/interaction-design-christian-curry-cadence-hendrickson-zephyr-app-vest.jpg?itok=HMe6k3MC&c=87ef1635f3060597e06bdabe3787efd5",
+            "type": "src"
+          },
+          {
+            "link": "https://art.washington.edu/sites/art/files/styles/large_full_width/public/images/visual-communication-design-julia-manchek-making-letterforms-project.jpg?itok=RBLlZjoh&c=0f8102af9a2c2559a02c2eb02c975914",
+            "type": "src"
+          },
+          {
+            "link": "https://art.washington.edu/sites/art/files/styles/large_full_width/public/images/visual-communication-design-khaito-gengo-infographic.jpg?itok=QJ1Ygb9c&c=0f8102af9a2c2559a02c2eb02c975914",
+            "type": "src"
+          },
+          {
+            "link": "https://art.washington.edu/sites/art/files/styles/large_full_width/public/images/design-show-2016.jpg?itok=mIK-Fiol&c=2fd35945104780b9907707457d2ca4ed",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
+  }
+}

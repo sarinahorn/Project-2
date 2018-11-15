@@ -1,0 +1,273 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Edmondsans-Regular",
+              "size": 25
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30,
+            "paragraphSpacing": 0.300000011920929
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 652,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Edmondsans-Regular",
+              "size": 25
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30,
+            "paragraphSpacing": 0.300000011920929
+          },
+          "strikethroughStyle": 0,
+          "textStyleVerticalAlignmentKey": 0,
+          "underlineStyle": 0
+        },
+        "length": 126,
+        "location": 652
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Edmondsans-Regular",
+              "size": 25
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30,
+            "paragraphSpacing": 0.300000011920929
+          },
+          "strikethroughStyle": 0,
+          "textStyleVerticalAlignmentKey": 0,
+          "underlineStyle": 0
+        },
+        "length": 5,
+        "location": 778
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Edmondsans-Regular",
+              "size": 25
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30,
+            "paragraphSpacing": 0.300000011920929
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 299,
+        "location": 783
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Avenir-Book",
+              "size": 27
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30,
+            "paragraphSpacing": 0.300000011920929
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1,
+        "location": 1082
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Avenir-Book",
+              "size": 27
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 3,
+        "location": 1083
+      }
+    ],
+    "string": "A major in Visual Communication Design educates and prepares students to conceive and produce creative solutions to satisfy the visual communication needs of society. Graduates are prepared for careers in graphic design, web design, multimedia design, advertising, printing, publishing or related fields. Theory and practice are covered in a variety of contexts, including process and product, form and content, type and image and inter activity. Current technology and future trends are addressed in the context of industry practices. This major is combined with a related minor in another academic area to specialize in specific career preparation.\n\nNote: two years of a single high school foreign language or one year of a single college level foreign language is required.\n\nNote: In order to receive the Visual Communication Design degree, students must earn at least a 3.0 grade in the following courses: DESN 263 Visual Communication Design 1 and DESN 363 Visual Communication Design 2. This is in addition to the department requirement of 2.5 GPA in all DESN/TECH coursework.\n\n\n\n"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9885735C-7F42-4F5C-9B65-434C6ADB57D4",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8109DB4B-5E6A-4051-AB49-1F47B95896F3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "46AA62A7-7448-4B8D-B31A-A7D046085A53",
+    "height": 614,
+    "width": 706,
+    "x": 502,
+    "y": 1388
+  },
+  "glyphBounds": "{{-1, 5}, {704, 708}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "A major in Visual Co",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8FF8C500-76BF-4B14-9490-A09B309BFFC7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "1C81AA10-DDA8-4FA2-BACE-1FD6690863E0",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Edmondsans-Regular",
+            "size": 25
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 30,
+          "minimumLineHeight": 30,
+          "paragraphSpacing": 0.300000011920929
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "web",
+        "words": [
+          "Drawing for Communication, Basic Design, and Typography\n\nThese introductory courses serve as your foundation for advanced study (in visual communication design.) Learn to depict the size and shape of objects, the basic design concepts for 2 dimensional works, and how to manipulate letterform for communicative purposes.\n\nVisual Communication Design and Visual Literacy\n\nBegin the lifelong process of refining your creative and perceptual problem solving skills through this series of core classes. You will combine theoretical study with applied projects to develop a visual and verbal vocabulary for the creation of complex, yet cohesive visual systems.\n\nComputer Graphics, Color Management, and Electronic Prepress Production\n\nEnhance your computer graphics and technical skills as you learn to professionally produce and edit text, graphic and continuous tone photographic images using industry standard software applications.\n\nWeb Page and Digital Media Design\n\nPlan, design, produce, and deliver logical, but visually effective web pages and digital media using current industry software.\n\nSenior Capstone and Portfolio Review\n\nPut it all together in these two advanced classes. Through a series of weekly critiques and an intense design team based project, you will supplement and refine your body of work in preparation for taking your place within the design community.\n\nPublic Speaking and Technical Communication\n\nCombine theory and practice as you learn to effectively structure information for a variety of purposes and audiences. Learn to present your ideas to clients and coworkers in a powerful and persuasive manner.\n\nHistory of Design, Technology and World Civilization\n\nDiscover the historical context of your work as you study the evolution of design and technology and their impact on society.\n\nMinor\n\nEastern offers many possibilities including Art, Business, Film, Communications, Technology, Music, and English, all taught by well-versed, professional faculty members.\n\nMajor Electives\n\nCustomize your degree by adding approved electives from this variety of courses taught within the department.\n\nCourse List\n\nCore Courses (55 credits)\nDESN 100 Drawing for Communication (5)\nDESN 216 Digital Foundations (4)\nDESN 243 Typography (4)\nDESN 259 History of Design (4)\nDESN 263 Visual Communication Design 1 (4)\nDESN 338 User Experience Design 1 (4)\nDESN 363 Visual Communication Design 2 (4)\nDESN 366 Production Design (4)\nDESN 368 Web Design 1 (4)\nDESN 463 Visual Communication Design 3 (4)\nDESN 490 Senior Capstone (5)\nDESN 493 Portfolio Review (2)\n\nSupporting Courses (18–19 credits)\nART 107 Basic Design (5)\nCMST 201 Public Speaking (5) or CMST 200 Introduction to Speech Communication (4)\nTCOM 205 Introduction to Technical Communication (5)\nTECH 393 Technology in World Civilization (4)\n\nElectives (12 credits)\nApproved Electives (12)\n\nNote: MATH 107 is recommended for the above major.\n\n",
+          "A major in Visual Communication Design educates and prepares students to conceive and produce creative solutions to satisfy the visual communication needs of society. Graduates are prepared for careers in graphic design, web design, multimedia design, advertising, printing, publishing or related fields. Theory and practice are covered in a variety of contexts, including process and product, form and content, type and image and inter activity. Current technology and future trends are addressed in the context of industry practices. This major is combined with a related minor in another academic area to specialize in specific career preparation.\n\nNote: two years of a single high school foreign language or one year of a single college level foreign language is required.\n\nNote: In order to receive the Visual Communication Design degree, students must earn at least a 3.0 grade in the following courses: DESN 263 Visual Communication Design 1 and DESN 363 Visual Communication Design 2. This is in addition to the department requirement of 2.5 GPA in all DESN/TECH coursework.\n\nBA in VCD Advising Form\n\nAcademic Year 2016/17\n\nGraduation Application BA in VCD\n\nAcademic Year 2017/18\n\n"
+        ]
+      }
+    }
+  }
+}

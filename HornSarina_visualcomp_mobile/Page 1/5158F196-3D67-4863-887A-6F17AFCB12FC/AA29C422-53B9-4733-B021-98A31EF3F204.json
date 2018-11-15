@@ -1,0 +1,122 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Edmondsans-Regular",
+              "size": 10
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 12.67000007629395,
+            "minimumLineHeight": 12.67000007629395
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1814,
+        "location": 0
+      }
+    ],
+    "string": "Drawing for Communication, Basic Design, and Typography\n\nThese introductory courses serve as your foundation for advanced study (in visual communication design.) Learn to depict the size and shape of objects, the basic design concepts for 2 dimensional works, and how to manipulate letterform for communicative purposes.\n\nVisual Communication Design and Visual Literacy\n\nBegin the lifelong process of refining your creative and perceptual problem solving skills through this series of core classes. You will combine theoretical study with applied projects to develop a visual and verbal vocabulary for the creation of complex, yet cohesive visual systems.\n\nComputer Graphics, Color Management, and Electronic Prepress Production\n\nEnhance your computer graphics and technical skills as you learn to professionally produce and edit text, graphic and continuous tone photographic images using industry standard software applications.\n\nWeb Page and Digital Media Design\n\nPlan, design, produce, and deliver logical, but visually effective web pages and digital media using current industry software.\n\nSenior Capstone and Portfolio Review\n\nPut it all together in these two advanced classes. Through a series of weekly critiques and an intense design team based project, you will supplement and refine your body of work in preparation for taking your place within the design community.\n\nPublic Speaking and Technical Communication\n\nCombine theory and practice as you learn to effectively structure information for a variety of purposes and audiences. Learn to present your ideas to clients and coworkers in a powerful and persuasive manner.\n\nHistory of Design, Technology and World Civilization\n\nDiscover the historical context of your work as you study the evolution of design and technology and their impact on society."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AA29C422-53B9-4733-B021-98A31EF3F204",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0EA30D80-D7C5-4DEC-8DFF-D6EE7CCE0879",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9BE21D40-CECA-41EF-91C3-2A554C8CA8BB",
+    "height": 288.5555555555555,
+    "width": 156.4444444444444,
+    "x": 112,
+    "y": 222
+  },
+  "glyphBounds": "{{-1, 1}, {157, 911}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Drawing for Communic",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "C8AECAFE-FAFE-4776-B7D2-FBC7F77762F5",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.222222222222222,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "93DE7A62-75B0-42F7-9465-3F428164FA88",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Edmondsans-Regular",
+            "size": 10
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 12.67000007629395,
+          "minimumLineHeight": 12.67000007629395
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}
